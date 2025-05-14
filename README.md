@@ -11,8 +11,8 @@ Each topic builds practical expertise, helping me navigate, manage, and automate
 | Topic Name            | Status         | Link                                                                  |
 |-----------------------|----------------|-----------------------------------------------------------------------|
 | Windows Command Line  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Command-Line/)   |
-| Windows PowerShell    | 🔄 In Progress | Coming soon                                                           |
-| Linux Shells          | ⏳ Not Started | Coming soon                                                           |
+| Windows PowerShell    | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-PowerShell/)     |
+| Linux Shells          | 🔄 In Progress | Coming soon                                                           |
 
 ---
 
@@ -23,8 +23,9 @@ Each topic builds practical expertise, helping me navigate, manage, and automate
 - Explored how to view user and system info, manage network connections, and use built-in help features for command syntax.
 
 ### 🧩 Windows PowerShell
-- Coming soon...
-- Coming soon...
+- Learned how to use PowerShell to run commands, explore the file system, and manage system settings with greater control than CMD.  
+- Practised key commands like `Get-Command`, `Get-Help`, and `Get-Alias` to build confidence using PowerShell for automation and administration tasks.
+
 
 ### 🐧 Linux Shell
 - Coming soon...
