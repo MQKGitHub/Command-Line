@@ -12,7 +12,7 @@ Each topic builds practical expertise, helping me navigate, manage, and automate
 |-----------------------|----------------|-----------------------------------------------------------------------|
 | Windows Command Line  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-Command-Line/)   |
 | Windows PowerShell    | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Windows-PowerShell/)     |
-| Linux Shells          | 🔄 In Progress | Coming soon                                                           |
+| Linux Shells          | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Linux-Shells)            |
 
 ---
 
@@ -27,9 +27,9 @@ Each topic builds practical expertise, helping me navigate, manage, and automate
 - Practised key commands like `Get-Command`, `Get-Help`, and `Get-Alias` to build confidence using PowerShell for automation and administration tasks.
 
 
-### 🐧 Linux Shell
-- Coming soon...
-- Coming soon...
+### 🐧 Linux Shells
+- Learned how to interact with different Linux shells like Bash, Zsh, and Fish, understanding their unique features and use cases.  
+- Practised essential shell commands and scripting basics, including variables, loops, and permissions, to automate tasks efficiently.
 
 ---
 
